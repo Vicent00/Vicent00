@@ -14,8 +14,8 @@ Welcome to my GitHub profile! 🚀 I'm an **Ethereum Developer** passionate abou
 - 📈 Continuously advance my knowledge and skills in **Ethereum development** and **cybersecurity**.
 
 ## 🛠️ Tech Stack
-- **Languages**: Solidity, JavaScript, Python
-- **Blockchain Tools**: Hardhat, Truffle, Ganache, Web3.js, Ethers.js
+- **Languages**: Solidity, JavaScript, React, Astro, NextJs, Node, Express
+- **Blockchain Tools**: Foundry, Web3.js, Ethers.js
 - **Advanced Technologies**: zk-SNARKs, Zero-Knowledge Proofs
 - **Security Practices**: Smart contract audits, vulnerability detection, and threat modeling
 - **Other Tools**: Git, Docker, VS Code
