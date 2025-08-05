@@ -18,10 +18,10 @@
 
 ## 🎯 Focus Areas
 
+- **🚀 Development**: Marketplaces & Trading Platforms 
 - **🔐 Security**: DeFi auditing & smart contract security
 - **⛓️ Interoperability**: Cross-chain DeFi protocols  
 - **🏗️ Architecture**: Scalable dApp development
-- **🚀 Innovation**: Open source contributions (Wagmi, Viem, OpenZeppelin)
 
 ## 📫 Connect
 
